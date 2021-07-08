@@ -73,7 +73,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                     Navigator.pushNamed(context, ResetPassword.id);
                   },),
                   SizedBox(height: 10,),
-                  ProfileContainer(text: 'Privacy Policy',),
+                  ProfileContainer(text: 'Phgsbdliygcy Policy',),
                   SizedBox(height: 10,),
                   ProfileContainer(text: 'Requested Books',),
                   SizedBox(height: 10,),
